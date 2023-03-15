@@ -1,0 +1,27 @@
+body{
+    background: rgb(225, 46, 46);
+}
+p{
+    text-align: center;
+    font-size: 35px;
+    font-family: serif;
+    border: 10px groove black;
+    width: 1100px;
+    margin: 10px 0px 0px 160px;
+}
+img{
+    width: 350px;
+    height: 350px;
+    float: right;
+}
+
+div{
+    margin-top: 70px;
+    margin-left: 40px;
+}
+h2{
+    font-size: 80px;
+    margin-top: 50px;
+    text-align: center;
+    font-family: fantasy;
+}
